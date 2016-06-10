@@ -1,0 +1,20 @@
+﻿{
+  "title": "SmallCode.Pager",
+  "version": "1.0.0-beta1-3",
+  "description": "ASP.Net vNext Pager Library",
+  "copyright": "SmallCode",
+  "authors": [ "Lenny" ],
+  "tags": [ "Pager", "Asp.Net Core", "ASP.Net", "MVC" ],
+  "iconUrl": "https://avatars2.githubusercontent.com/u/18366212?v=3&s=200",
+  "projectUrl": "https://github.com/ISmallCode/SmallCode.Pager",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "Microsoft.AspNet.Mvc.Razor": "6.0.0-rc1-final"
+  },
+
+  "frameworks": {
+    "net451": { },
+    "dnxcore50": { }
+  }
+}

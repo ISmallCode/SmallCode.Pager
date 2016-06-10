@@ -1,0 +1,30 @@
+﻿
+@using SmallCode.Pager.Test.Models;
+@using SmallCode.Pager
+@model SmallCode.Pager.PagedList<User>
+
+
+<link href="~/styles/page.css" rel="stylesheet" />
+@{
+}
+<table class="result-tab" width="100%">
+    <tr>
+        <th>ID</th>
+        <th>用户名</th>
+        <th>密码</th>
+        <th>操作</th>
+    </tr>
+    @foreach (var item in Model.PageListData)
+    {
+        <tr id="@item.Id">
+            <td>@item.Id</td>
+            <td>@item.UserName</td>
+            <td>@item.Password</td>
+            <td>
+                <a class="link-update" href="#">修改</a>
+                <a href="javascript:deleteDialog('/User/DeleteUser/' + @item.Id,@item.Id);" class="link-del">删除</a>
+            </td>
+        </tr>
+    }
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
