@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0F16D497-0314-423D-9997-54BC65F68544}"
 EndProject
@@ -13,6 +13,8 @@ EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SmallCode.Pager.Test", "src\SmallCode.Pager.Test\SmallCode.Pager.Test.xproj", "{1170C766-C068-4765-9890-71F9F55C4477}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SmallCode.Pager.RC2", "src\SmallCode.Pager.RC2\SmallCode.Pager.RC2.xproj", "{87C1B92E-BF0E-4B23-B8E1-EBADF913E88E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SmallCode.Pager", "src\SmallCode.Pager\SmallCode.Pager.xproj", "{6A7793AD-C1BC-422F-BC90-D34A667F57D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +30,10 @@ Global
 		{87C1B92E-BF0E-4B23-B8E1-EBADF913E88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C1B92E-BF0E-4B23-B8E1-EBADF913E88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C1B92E-BF0E-4B23-B8E1-EBADF913E88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7793AD-C1BC-422F-BC90-D34A667F57D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7793AD-C1BC-422F-BC90-D34A667F57D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7793AD-C1BC-422F-BC90-D34A667F57D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7793AD-C1BC-422F-BC90-D34A667F57D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,5 +41,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1170C766-C068-4765-9890-71F9F55C4477} = {0F16D497-0314-423D-9997-54BC65F68544}
 		{87C1B92E-BF0E-4B23-B8E1-EBADF913E88E} = {0F16D497-0314-423D-9997-54BC65F68544}
+		{6A7793AD-C1BC-422F-BC90-D34A667F57D8} = {0F16D497-0314-423D-9997-54BC65F68544}
 	EndGlobalSection
 EndGlobal

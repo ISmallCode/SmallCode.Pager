@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\obj\Debug\netstandard1.5\dotnet-compile.assemblyinfo.cs"
--out:"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\bin\Debug\netstandard1.5\SmallCode.Pager.RC2.dll"
+"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\obj\Debug\netstandard1.5\dotnet-compile.assemblyinfo.cs"
+-out:"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\bin\Debug\netstandard1.5\SmallCode.Pager.RC2.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Authorization\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll"
 -r:"C:\Users\乐\.nuget\packages\Microsoft.AspNetCore.Cors\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Cors.dll"
@@ -136,8 +136,8 @@
 -r:"C:\Users\乐\.nuget\packages\System.Threading.Timer\4.0.1-rc2-24027\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\乐\.nuget\packages\System.Xml.ReaderWriter\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\乐\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll"
-"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\HtmlHelper.cs"
-"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\IPageList.cs"
-"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\PagedList.cs"
-"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\PageHelper.cs"
-"D:\document\work\frame\Page\SmallCode.Pager\src\SmallCode.Pager.RC2\Properties\AssemblyInfo.cs"
+"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\HtmlHelper.cs"
+"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\IPageList.cs"
+"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\PagedList.cs"
+"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\PageHelper.cs"
+"D:\document\work\frame\SmallCode.Pager\SmallCode.Pager\src\SmallCode.Pager.RC2\Properties\AssemblyInfo.cs"
